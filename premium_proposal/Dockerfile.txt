@@ -1,0 +1,2 @@
+FROM nginx:alpine
+COPY proposal_premium_web.html /usr/share/nginx/html/index.html
